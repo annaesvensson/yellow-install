@@ -32,4 +32,4 @@ Diese Erweiterung ist Teil der [Standardinstallation](https://github.com/datenst
 
 ## Entwickler
 
-Datenstrom. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).

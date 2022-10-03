@@ -32,4 +32,4 @@ Den här tillägget är del av [standardinstallationen](https://github.com/daten
 
 ## Developer
 
-Datenstrom. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
