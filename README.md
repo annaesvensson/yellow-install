@@ -21,14 +21,14 @@ The following files will be customised during installation:
 `content/shared/page-new-blog.md` = content file for new blog page  
 `content/shared/page-error-404.md` = content file for error page  
 `system/extensions/yellow-system.ini` = file with system settings  
-`system/extensions/yellow-user.ini` = file with user settings  
 `system/extensions/yellow-language.ini` = file with language settings  
+`system/extensions/yellow-user.ini` = file with user settings  
 
 The log file can be found in file `system/extensions/yellow-website.log`.
 
 ## Installation
 
-This extension is part of the [standard installation](https://github.com/datenstrom/yellow).
+This extension is part of the [standard installation](https://github.com/datenstrom/yellow) and cannot be installed individually.
 
 ## Developer
 

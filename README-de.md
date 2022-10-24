@@ -21,14 +21,14 @@ Die folgenden Dateien werden bei der Installation angepasst:
 `content/shared/page-new-blog.md` = Inhaltsdatei für neue Blogseite  
 `content/shared/page-error-404.md` = Inhaltsdatei für Fehlerseite  
 `system/extensions/yellow-system.ini` = Datei mit Systemeinstellungen  
-`system/extensions/yellow-user.ini` = Datei mit Benutzereinstellungen  
 `system/extensions/yellow-language.ini` = Datei mit Spracheinstellungen  
+`system/extensions/yellow-user.ini` = Datei mit Benutzereinstellungen  
 
 Die Logdatei findet man in der Datei `system/extensions/yellow-website.log`.
 
 ## Installation
 
-Diese Erweiterung ist Teil der [Standardinstallation](https://github.com/datenstrom/yellow).
+Diese Erweiterung ist Teil der [Standardinstallation](https://github.com/datenstrom/yellow) und kann nicht einzeln installiert werden.
 
 ## Entwickler
 

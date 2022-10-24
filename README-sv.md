@@ -21,14 +21,14 @@ Följande filer kommer att anpassas under installationen:
 `content/shared/page-new-blog.md` = innehållsfil för ny bloggsida  
 `content/shared/page-error-404.md` = innehållsfil för felsidan  
 `system/extensions/yellow-system.ini` = fil med systeminställningar  
-`system/extensions/yellow-user.ini` = fil med användarinställningar  
 `system/extensions/yellow-language.ini` = fil med språkinställningar  
+`system/extensions/yellow-user.ini` = fil med användarinställningar  
 
 Loggfilen finns i filen `system/extensions/yellow-website.log`.
 
 ## Installation
 
-Den här tillägget är del av [standardinstallationen](https://github.com/datenstrom/yellow).
+Den här tillägget är del av [standardinstallationen](https://github.com/datenstrom/yellow) och kan inte installeras individuellt.
 
 ## Developer
 
