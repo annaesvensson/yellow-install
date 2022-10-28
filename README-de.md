@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.8.81
+# Install 0.8.82
 
 Installiere eine brandneue, wunderbare Website.
 
@@ -8,7 +8,7 @@ Installiere eine brandneue, wunderbare Website.
 
 ## Wie man eine Webseite installiert
 
-Zum Installieren entpackt man eine Datei und los geht's. Zuerst überprüft das Installationsprogramm ob alle Anforderungen erfüllt sind, zum Beispiel ob dein Webserver richtig funktioniert. Dann bietet dir das Installationsprogramm an ein Benutzerkonto anzulegen und hilft dir beim Einrichten deiner Webseite. Wähle aus was du machen willst und klicke auf `Installieren`. Nachdem das Installationsprogramm seine Arbeit erledigt hat löscht es sich von selbst. [Weitere Informationen zur Installation](https://datenstrom.se/de/yellow/help/how-to-get-started) und [Fehlerbehebung](https://datenstrom.se/de/yellow/help/troubleshooting).
+Zum Installieren entpackt man eine Datei und los geht's. Zuerst überprüft das Installationsprogramm ob alle Anforderungen erfüllt sind, zum Beispiel ob dein Webserver richtig funktioniert. Dann bietet dir das Installationsprogramm an ein Benutzerkonto anzulegen und hilft dir beim Einrichten deiner Webseite. Wähle aus was du machen willst und klicke auf `Installieren`. Nachdem das Installationsprogramm seine Arbeit erledigt hat löscht es sich von selbst. [Weitere Informationen zur Installation](https://datenstrom.se/de/yellow/help/how-to-get-started).
 
 ## Einstellungen
 
