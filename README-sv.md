@@ -26,10 +26,6 @@ Följande filer kommer att anpassas under installationen:
 
 Loggfilen finns i filen `system/extensions/yellow-website.log`.
 
-## Installation
-
-Den här tillägget är del av [standardinstallationen](https://github.com/datenstrom/yellow) och kan inte installeras individuellt.
-
 ## Developer
 
 Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).

@@ -26,10 +26,6 @@ Die folgenden Dateien werden bei der Installation angepasst:
 
 Die Logdatei findet man in der Datei `system/extensions/yellow-website.log`.
 
-## Installation
-
-Diese Erweiterung ist Teil der [Standardinstallation](https://github.com/datenstrom/yellow) und kann nicht einzeln installiert werden.
-
 ## Entwickler
 
 Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).

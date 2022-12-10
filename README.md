@@ -26,10 +26,6 @@ The following files will be customised during installation:
 
 The log file can be found in file `system/extensions/yellow-website.log`.
 
-## Installation
-
-This extension is part of the [standard installation](https://github.com/datenstrom/yellow) and cannot be installed individually.
-
 ## Developer
 
 Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).
