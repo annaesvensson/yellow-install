@@ -26,6 +26,10 @@ Följande filer kommer att anpassas under installationen:
 
 Loggfilen finns i filen `system/extensions/yellow-website.log`.
 
+## Tack
+
+Detta tilläg innehåller [översättningar](https://github.com/annaesvensson/yellow-language/tree/main/translations) av [olika bidragsgivare](https://github.com/annaesvensson/yellow-language/graphs/contributors). Tack för ett bra jobb.
+
 ## Developer
 
 Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).

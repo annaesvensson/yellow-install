@@ -26,6 +26,10 @@ Die folgenden Dateien werden bei der Installation angepasst:
 
 Die Logdatei findet man in der Datei `system/extensions/yellow-website.log`.
 
+## Danksagung
+
+Diese Erweiterung enthält [Übersetzungen](https://github.com/annaesvensson/yellow-language/tree/main/translations) von [verschiedenen Mitwirkenden](https://github.com/annaesvensson/yellow-language/graphs/contributors). Danke für die gute Arbeit.
+
 ## Entwickler
 
 Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
