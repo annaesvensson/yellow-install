@@ -28,7 +28,7 @@ Loggfilen finns i filen `system/extensions/yellow-website.log`.
 
 ## Tack
 
-Detta tillägg innehåller [översättningar](https://github.com/annaesvensson/yellow-language/tree/main/translations) av [olika bidragsgivare](https://github.com/annaesvensson/yellow-language/graphs/contributors). Tack för ett bra jobb.
+Detta tillägg innehåller [översättningar av olika bidragsgivare](https://github.com/annaesvensson/yellow-language/graphs/contributors). Tack för ett bra jobb.
 
 ## Developer
 
