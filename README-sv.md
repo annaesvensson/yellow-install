@@ -8,7 +8,7 @@ Installera en helt ny, underbar webbplats.
 
 ## Hur man installerar en webbplats
 
-För att installera packa upp en fil och du är redo att gå. Först kontrollerar installationsprogrammet om alla krav har uppfyllts, till exempel om din webbserver fungerar som den ska. Sedan erbjuder installationsprogrammet dig att skapa ett användarkonto och hjälper dig att inreda din webbplats. Välj vad du vill göra och klicka på `Installera`. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. [Läs mer om installation](https://datenstrom.se/sv/yellow/help/how-to-get-started).
+För att installera packa upp en fil och du är redo att gå. Först kontrollerar installationsprogrammet om alla krav har uppfyllts, till exempel om din webbserver fungerar som den ska. Sedan hjälper installationsprogrammet dig att inreda din webbplats. Ange ditt namn, email och lösenord. Välj vad du vill göra och klicka på `Installera`. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. [Läs mer om installation](https://datenstrom.se/sv/yellow/help/how-to-get-started).
 
 ## Inställningar
 
