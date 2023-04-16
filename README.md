@@ -8,7 +8,7 @@ Install a brand new, shiny website.
 
 ## How to install a website
 
-Installing is unzipping one file and you are ready to go. First the installer checks whether all requirements have been met, for example whether your web server is working properly. Then the installer offers you to create a user account and helps you with setting up your website. Select what you want to do and click `Install`. After the installer has done its work it will delete itself. [Learn more about installation](https://datenstrom.se/yellow/help/how-to-get-started).
+Installing is unzipping one file and you are ready to go. First the installer checks whether all requirements have been met, for example whether your web server is working properly. Then the installer helps you with setting up your website. Enter your name, email and password. Select what you want to do and click `Install`. After the installer has done its work it will delete itself. [Learn more about installation](https://datenstrom.se/yellow/help/how-to-get-started).
 
 ## Settings
 
