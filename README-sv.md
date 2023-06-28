@@ -2,13 +2,15 @@
 
 # Install 0.8.90
 
-Installera en helt ny, underbar webbplats.
+Installera en helt ny webbplats.
 
 <p align="center"><img src="install-screenshot.png?raw=true" alt="Skärmdump"></p>
 
 ## Hur man installerar en webbplats
 
 För att installera packa upp en fil och du är redo att gå. Först kontrollerar installationsprogrammet om alla krav har uppfyllts, till exempel om din webbserver fungerar som den ska. Sedan hjälper installationsprogrammet dig att inreda din webbplats. Ange ditt namn, email och lösenord. Välj vad du vill göra och klicka på `Installera`. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. [Läs mer om installation](https://datenstrom.se/sv/yellow/help/how-to-get-started).
+
+Om du vill lägga till funktioner, språk och teman, det finns [tillägg](https://github.com/datenstrom/yellow-extensions/tree/main/README-sv.md) och ett [API för utvecklare](https://datenstrom.se/sv/yellow/help/api-for-developers).
 
 ## Inställningar
 

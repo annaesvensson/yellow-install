@@ -2,13 +2,15 @@
 
 # Install 0.8.90
 
-Install a brand new, shiny website.
+Install a brand new website.
 
 <p align="center"><img src="install-screenshot.png?raw=true" alt="Screenshot"></p>
 
 ## How to install a website
 
 Installing is unzipping one file and you are ready to go. First the installer checks whether all requirements have been met, for example whether your web server is working properly. Then the installer helps you with setting up your website. Enter your name, email and password. Select what you want to do and click `Install`. After the installer has done its work it will delete itself. [Learn more about installation](https://datenstrom.se/yellow/help/how-to-get-started).
+
+If you want to add features, languages and themes, there are [extensions](https://github.com/datenstrom/yellow-extensions) and an [API for developers](https://datenstrom.se/yellow/help/api-for-developers).
 
 ## Settings
 
