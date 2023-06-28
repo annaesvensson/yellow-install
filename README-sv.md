@@ -8,11 +8,15 @@ Installera en helt ny webbplats.
 
 ## Hur man installerar en webbplats
 
-För att installera packa upp en fil och du är redo att gå. Först kontrollerar installationsprogrammet om alla krav har uppfyllts, till exempel om din webbserver fungerar som den ska. Sedan hjälper installationsprogrammet dig att inreda din webbplats. Ange ditt namn, email och lösenord. Välj vad du vill göra och klicka på `Installera`. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. [Läs mer om installation](https://datenstrom.se/sv/yellow/help/how-to-get-started).
-
-Om du vill lägga till funktioner, språk och teman, det finns [tillägg](https://github.com/datenstrom/yellow-extensions/tree/main/README-sv.md) och ett [API för utvecklare](https://datenstrom.se/sv/yellow/help/api-for-developers).
+[Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Först kontrollerar installationsprogrammet om alla krav har uppfyllts, till exempel om din webbserver fungerar som den ska. Sedan hjälper installationsprogrammet dig att inreda din webbplats. Ange ditt namn, email och lösenord. Välj vad du vill göra och klicka på `Installera`. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. Din webbplats är tillgänglig omedelbart. De viktigaste sakerna för små webbsidor ingår. Du kan lägga till funktioner, språk och teman. Det finns [tillägg](https://github.com/datenstrom/yellow-extensions/tree/main/README-sv.md) och ett [API för utvecklare](https://datenstrom.se/sv/yellow/help/api-for-developers).
 
 ## Inställningar
+
+Följande inställningar kommer att konfigureras under installationen:
+
+`system/extensions/yellow-system.ini` = fil med systeminställningar  
+`system/extensions/yellow-language.ini` = fil med språkinställningar  
+`system/extensions/yellow-user.ini` = fil med användarinställningar  
 
 Följande filer kommer att anpassas under installationen:
 
@@ -22,15 +26,12 @@ Följande filer kommer att anpassas under installationen:
 `content/shared/page-new-wiki.md` = innehållsfil för ny wikisida  
 `content/shared/page-new-blog.md` = innehållsfil för ny bloggsida  
 `content/shared/page-error-404.md` = innehållsfil för felsidan  
-`system/extensions/yellow-system.ini` = fil med systeminställningar  
-`system/extensions/yellow-language.ini` = fil med språkinställningar  
-`system/extensions/yellow-user.ini` = fil med användarinställningar  
 
 Loggfilen finns i filen `system/extensions/yellow-website.log`.
 
 ## Tack
 
-Detta tillägg innehåller [översättningar av olika bidragsgivare](https://github.com/annaesvensson/yellow-language/graphs/contributors). Tack för ett bra jobb.
+Detta tillägg innehåller [översättningar](https://github.com/annaesvensson/yellow-language/tree/main/README-sv.md) av olika bidragsgivare. Tack för ett bra jobb.
 
 ## Developer
 
