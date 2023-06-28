@@ -2,7 +2,7 @@
 
 # Install 0.8.90
 
-Eine brandneue Website installieren.
+Eine brandneue Webseite installieren.
 
 <p align="center"><img src="install-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
