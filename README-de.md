@@ -8,7 +8,11 @@ Eine brandneue Webseite installieren.
 
 ## Wie man eine Webseite installiert
 
-[Folge der Installationsanleitung](https://datenstrom.se/de/yellow/help/how-to-get-started). Zuerst überprüft das Installationsprogramm ob alle Anforderungen erfüllt sind, zum Beispiel ob dein Webserver richtig funktioniert. Dann hilft dir das Installationsprogramm beim Einrichten deiner Webseite. Gebe deinen Namen, E-Mail und Kennwort ein. Wähle aus was du machen willst und klicke auf `Installieren`. Nachdem das Installationsprogramm seine Arbeit erledigt hat löscht es sich von selbst. Deine Webseite ist sofort erreichbar. Die wichtigsten Dinge für kleine Webseiten sind mit dabei. Du kannst Funktionen, Sprachen und Themes hinzufügen. Es gibt [Erweiterungen](https://github.com/datenstrom/yellow-extensions/tree/main/README-de.md) und eine [API für Entwickler](https://datenstrom.se/de/yellow/help/api-for-developers).
+[Folge der Installationsanleitung](https://datenstrom.se/de/yellow/help/how-to-get-started). Zuerst überprüft das Installationsprogramm ob alle Installationsanforderungen erfüllt sind. Dann hilft dir das Installationsprogramm beim Einrichten deiner Webseite. Nachdem das Installationsprogramm seine Arbeit erledigt hat löscht es sich von selbst. Deine Webseite ist sofort erreichbar. Die wichtigsten Dinge für kleine Webseiten sind mit dabei. Du kannst Funktionen, Sprachen und Themes hinzufügen.
+
+## Wie man eine Webseite deinstalliert
+
+Lösche alle Dateien im Installationsverzeichnis.
 
 ## Einstellungen
 
@@ -23,8 +27,8 @@ Die folgenden Dateien werden bei der Installation angepasst:
 `content/1-home/page.md` = Inhaltsdatei für die Startseite  
 `content/9-about/page.md` = Inhaltsdatei für die Informationsseite  
 `content/shared/page-new-default.md` = Inhaltsdatei für neue Seite  
-`content/shared/page-new-wiki.md` = Inhaltsdatei für neue Wikiseite  
-`content/shared/page-new-blog.md` = Inhaltsdatei für neue Blogseite  
+`content/shared/page-new-wiki.md` = Inhaltsdatei für neue Wikiseite, [falls Wiki ausgewählt wurde](https://github.com/annaesvensson/yellow-wiki/tree/main/README-de.md)  
+`content/shared/page-new-blog.md` = Inhaltsdatei für neue Blogseite, [falls Blog ausgewählt wurde](https://github.com/annaesvensson/yellow-blog/tree/main/README-de.md)  
 `content/shared/page-error-404.md` = Inhaltsdatei für Fehlerseite  
 
 Die Logdatei findet man in der Datei `system/extensions/yellow-website.log`.

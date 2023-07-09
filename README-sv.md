@@ -8,7 +8,11 @@ Installera en helt ny webbplats.
 
 ## Hur man installerar en webbplats
 
-[Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Först kontrollerar installationsprogrammet om alla krav har uppfyllts, till exempel om din webbserver fungerar som den ska. Sedan hjälper installationsprogrammet dig att inreda din webbplats. Ange ditt namn, email och lösenord. Välj vad du vill göra och klicka på `Installera`. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. Din webbplats är tillgänglig omedelbart. De viktigaste sakerna för små webbsidor ingår. Du kan lägga till funktioner, språk och teman. Det finns [tillägg](https://github.com/datenstrom/yellow-extensions/tree/main/README-sv.md) och ett [API för utvecklare](https://datenstrom.se/sv/yellow/help/api-for-developers).
+[Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Först kontrollerar installationsprogrammet om alla installationskrav har uppfyllts. Sedan hjälper installationsprogrammet dig att inreda din webbplats. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. Din webbplats är tillgänglig omedelbart. De viktigaste sakerna för små webbsidor ingår. Du kan lägga till funktioner, språk och teman.
+
+## Hur man avinstallerar en webbplats
+
+Ta bort alla filer i installationsmappen.
 
 ## Inställningar
 
@@ -23,8 +27,8 @@ Följande filer kommer att anpassas under installationen:
 `content/1-home/page.md` = innehållsfil för hemsidan  
 `content/9-about/page.md` = innehållsfil för informationssidan  
 `content/shared/page-new-default.md` = innehållsfil för ny sida  
-`content/shared/page-new-wiki.md` = innehållsfil för ny wikisida  
-`content/shared/page-new-blog.md` = innehållsfil för ny bloggsida  
+`content/shared/page-new-wiki.md` = innehållsfil för ny wikisida, [om wiki valdes](https://github.com/annaesvensson/yellow-wiki/tree/main/README-sv.md)  
+`content/shared/page-new-blog.md` = innehållsfil för ny bloggsida, [om blogg valdes](https://github.com/annaesvensson/yellow-blog/tree/main/README-sv.md)  
 `content/shared/page-error-404.md` = innehållsfil för felsidan  
 
 Loggfilen finns i filen `system/extensions/yellow-website.log`.
