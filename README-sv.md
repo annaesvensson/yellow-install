@@ -10,6 +10,8 @@ Installera en helt ny webbplats.
 
 [Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Först kontrollerar installationsprogrammet om alla installationskrav har uppfyllts. Sedan hjälper installationsprogrammet dig att inreda din webbplats. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. Din webbplats är tillgänglig omedelbart. De viktigaste sakerna för små webbsidor ingår. Du kan lägga till funktioner, språk och teman.
 
+Om du vill hoppa över installationen på kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md), skriv `php yellow.php skip installation`.
+
 ## Hur man avinstallerar en webbplats
 
 Ta bort alla filer i installationsmappen.

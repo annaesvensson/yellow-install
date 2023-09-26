@@ -10,6 +10,8 @@ Install a brand new website.
 
 [Follow the installation instructions](https://datenstrom.se/yellow/help/how-to-get-started). First the installer checks whether all installation requirements have been met. Then the installer helps you with setting up your website. After the installer has done its work it will delete itself. Your website is immediately available. The most important things for small websites are included. You can add features, languages and themes.
 
+If you want to skip the installation at the [command line](https://github.com/annaesvensson/yellow-core), type `php yellow.php skip installation`.
+
 ## How to uninstall a website
 
 Delete all files in the installation folder.
