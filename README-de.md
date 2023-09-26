@@ -10,7 +10,7 @@ Eine brandneue Webseite installieren.
 
 [Folge der Installationsanleitung](https://datenstrom.se/de/yellow/help/how-to-get-started). Zuerst überprüft das Installationsprogramm ob alle Installationsanforderungen erfüllt sind. Dann hilft dir das Installationsprogramm beim Einrichten deiner Webseite. Nachdem das Installationsprogramm seine Arbeit erledigt hat löscht es sich von selbst. Deine Webseite ist sofort erreichbar. Die wichtigsten Dinge für kleine Webseiten sind mit dabei. Du kannst Funktionen, Sprachen und Themes hinzufügen.
 
-Wenn die die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) überspringen möchtest, kannst du `php yellow.php skip installation` eingeben.
+Wenn du die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) überspringen möchtest, kannst du `php yellow.php skip installation` eingeben.
 
 ## Wie man eine Webseite deinstalliert
 
