@@ -4,7 +4,7 @@
 
 Eine brandneue Webseite installieren.
 
-<p align="center"><img src="install-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
+<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Bildschirmfoto"></p>
 
 ## Wie man eine Webseite installiert
 
