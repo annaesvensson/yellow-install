@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.8.90
+# Install 0.8.91
 
 Install a brand new website.
 
@@ -8,13 +8,27 @@ Install a brand new website.
 
 ## How to install a website
 
-[Follow the installation instructions](https://datenstrom.se/yellow/help/how-to-get-started). First the installer checks whether all installation requirements have been met. Then the installer helps you with setting up your website. After the installer has done its work it will delete itself. Your website is immediately available. The most important things for small websites are included. You can add features, languages and themes.
+[Follow the installation instructions](https://datenstrom.se/yellow/help/how-to-get-started). First the installer checks whether all installation requirements have been met. Then the installer helps you with setting up your website. Creating a user account is optional. After the installer has done its work it will delete itself. Your website is immediately available. The most important things for small websites are included. You can add features, languages and themes.
 
 If you want to skip the installation at the [command line](https://github.com/annaesvensson/yellow-core), type `php yellow.php skip installation`.
 
 ## How to uninstall a website
 
 Delete all files in the installation folder.
+
+## Examples
+
+Skipping the installation at the command line:
+
+`php yellow.php skip installation`  
+
+Skipping the installation at the command line, install maximal number of extensions:
+
+`php yellow.php skip installation maximal`  
+
+Skipping the installation at the command line, install minimal number of extensions:
+
+`php yellow.php skip installation minimal`  
 
 ## Settings
 

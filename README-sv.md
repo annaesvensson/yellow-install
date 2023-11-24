@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.8.90
+# Install 0.8.91
 
 Installera en helt ny webbplats.
 
@@ -8,13 +8,27 @@ Installera en helt ny webbplats.
 
 ## Hur man installerar en webbplats
 
-[Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Först kontrollerar installationsprogrammet om alla installationskrav har uppfyllts. Sedan hjälper installationsprogrammet dig att inreda din webbplats. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. Din webbplats är tillgänglig omedelbart. De viktigaste sakerna för små webbsidor ingår. Du kan lägga till funktioner, språk och teman.
+[Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Först kontrollerar installationsprogrammet om alla installationskrav har uppfyllts. Sedan hjälper installationsprogrammet dig att inreda din webbplats. Det är frivilligt att skapa ett användarkonto. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. Din webbplats är tillgänglig omedelbart. De viktigaste sakerna för små webbsidor ingår. Du kan lägga till funktioner, språk och teman.
 
 Om du vill hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md), skriv `php yellow.php skip installation`.
 
 ## Hur man avinstallerar en webbplats
 
 Ta bort alla filer i installationsmappen.
+
+## Exempel
+
+Hoppa över installationen på kommandoraden:
+
+`php yellow.php skip installation`  
+
+Hoppa över installationen på kommandoraden, installera maximalt antal tillägg:
+
+`php yellow.php skip installation maximal`  
+
+Hoppa över installationen på kommandoraden, installera minimalt antal tillägg:
+
+`php yellow.php skip installation minimal`  
 
 ## Inställningar
 

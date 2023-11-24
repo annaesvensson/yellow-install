@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.8.90
+# Install 0.8.91
 
 Eine brandneue Webseite installieren.
 
@@ -8,13 +8,27 @@ Eine brandneue Webseite installieren.
 
 ## Wie man eine Webseite installiert
 
-[Folge der Installationsanleitung](https://datenstrom.se/de/yellow/help/how-to-get-started). Zuerst überprüft das Installationsprogramm ob alle Installationsanforderungen erfüllt sind. Dann hilft dir das Installationsprogramm beim Einrichten deiner Webseite. Nachdem das Installationsprogramm seine Arbeit erledigt hat löscht es sich von selbst. Deine Webseite ist sofort erreichbar. Die wichtigsten Dinge für kleine Webseiten sind mit dabei. Du kannst Funktionen, Sprachen und Themes hinzufügen.
+[Folge der Installationsanleitung](https://datenstrom.se/de/yellow/help/how-to-get-started). Zuerst überprüft das Installationsprogramm ob alle Installationsanforderungen erfüllt sind. Dann hilft dir das Installationsprogramm beim Einrichten deiner Webseite. Das Erstellen eines Benutzerkontos ist optional. Nachdem das Installationsprogramm seine Arbeit erledigt hat löscht es sich von selbst. Deine Webseite ist sofort erreichbar. Die wichtigsten Dinge für kleine Webseiten sind mit dabei. Du kannst Funktionen, Sprachen und Themes hinzufügen.
 
 Wenn du die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) überspringen möchtest, kannst du `php yellow.php skip installation` eingeben.
 
 ## Wie man eine Webseite deinstalliert
 
 Lösche alle Dateien im Installationsverzeichnis.
+
+## Beispiele
+
+Installation in der Befehlszeile überspringen:
+
+`php yellow.php skip installation`  
+
+Installation in der Befehlszeile überspringen, maximale Anzahl an Erweiterungen installieren:
+
+`php yellow.php skip installation maximal`  
+
+Installation in der Befehlszeile überspringen, minimale Anzahl an Erweiterungen installieren:
+
+`php yellow.php skip installation minimal`  
 
 ## Einstellungen
 
