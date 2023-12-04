@@ -18,7 +18,7 @@ Lösche alle Dateien im Installationsverzeichnis.
 
 ## Beispiele
 
-Installation in der Befehlszeile überspringen:
+Installation in der Befehlszeile überspringen, nur die wichtigsten Erweiterungen installieren:
 
 `php yellow.php skip installation`  
 
