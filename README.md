@@ -18,7 +18,7 @@ Delete all files in the installation folder.
 
 ## Examples
 
-Skipping the installation at the command line:
+Skipping the installation at the command line, install only the most important extensions:
 
 `php yellow.php skip installation`  
 
