@@ -32,13 +32,13 @@ Skipping the installation at the command line, install minimal number of extensi
 
 ## Settings
 
-The following settings will be configured during installation:
+The following files will be modified during the installation:
 
 `system/extensions/yellow-system.ini` = file with system settings  
 `system/extensions/yellow-language.ini` = file with language settings  
 `system/extensions/yellow-user.ini` = file with user settings  
 
-The following files will be customised during installation:
+The following files will be customised during the installation:
 
 `content/1-home/page.md` = content file for home page  
 `content/9-about/page.md` = content file for information page  

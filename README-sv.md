@@ -32,7 +32,7 @@ Hoppa över installationen på kommandoraden, installera minimalt antal tillägg
 
 ## Inställningar
 
-Följande inställningar kommer att konfigureras under installationen:
+Följande filer kommer att ändras under installationen:
 
 `system/extensions/yellow-system.ini` = fil med systeminställningar  
 `system/extensions/yellow-language.ini` = fil med språkinställningar  

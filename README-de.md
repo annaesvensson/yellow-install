@@ -32,7 +32,7 @@ Installation in der Befehlszeile überspringen, minimale Anzahl an Erweiterungen
 
 ## Einstellungen
 
-Die folgenden Einstellungen werden bei der Installation konfiguriert:
+Die folgenden Dateien werden bei der Installation geändert:
 
 `system/extensions/yellow-system.ini` = Datei mit Systemeinstellungen  
 `system/extensions/yellow-language.ini` = Datei mit Spracheinstellungen  
