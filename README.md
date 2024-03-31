@@ -18,17 +18,17 @@ Delete all files in the installation folder.
 
 ## Examples
 
-Skipping the installation at the command line, install only the most important extensions:
+Skipping the installation at the command line, install only the most important things:
 
-`php yellow.php skip installation`  
+`php yellow.php skip installation small`  
 
-Skipping the installation at the command line, install maximal number of extensions:
+Skipping the installation at the command line, install also the [help extension](https://github.com/annaesvensson/yellow-help):
 
-`php yellow.php skip installation maximal`  
+`php yellow.php skip installation medium`  
 
-Skipping the installation at the command line, install minimal number of extensions:
+Skipping the installation at the command line, install all the [available extensions](https://datenstrom.se/yellow/extensions/):
 
-`php yellow.php skip installation minimal`  
+`php yellow.php skip installation large`  
 
 ## Settings
 
