@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.8.94
+# Install 0.8.95
 
 Installera en helt ny webbplats.
 
@@ -20,15 +20,15 @@ Ta bort alla filer i installationsmappen.
 
 Hoppa över installationen på kommandoraden, installera endast de viktigaste tilläggen:
 
-`php yellow.php skip installation`  
+`php yellow.php skip installation small`  
 
-Hoppa över installationen på kommandoraden, installera maximalt antal tillägg:
+Hoppa över installationen på kommandoraden, omfattar [help tillägget](https://github.com/annaesvensson/yellow-help/tree/main/README-sv) installieren:
 
-`php yellow.php skip installation maximal`  
+`php yellow.php skip installation medium`  
 
-Hoppa över installationen på kommandoraden, installera minimalt antal tillägg:
+Hoppa över installationen på kommandoraden, omfattar alla [tillgängliga tillägg](https://datenstrom.se/sv/yellow/extensions/):
 
-`php yellow.php skip installation minimal`  
+`php yellow.php skip installation large`  
 
 ## Inställningar
 

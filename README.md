@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.8.94
+# Install 0.8.95
 
 Install a brand new website.
 
@@ -22,11 +22,11 @@ Skipping the installation at the command line, install only the most important t
 
 `php yellow.php skip installation small`  
 
-Skipping the installation at the command line, install also the [help extension](https://github.com/annaesvensson/yellow-help):
+Skipping the installation at the command line, includes the [help extension](https://github.com/annaesvensson/yellow-help):
 
 `php yellow.php skip installation medium`  
 
-Skipping the installation at the command line, install all the [available extensions](https://datenstrom.se/yellow/extensions/):
+Skipping the installation at the command line, includes all [available extensions](https://datenstrom.se/yellow/extensions/):
 
 `php yellow.php skip installation large`  
 

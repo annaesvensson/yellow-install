@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.8.94
+# Install 0.8.95
 
 Eine brandneue Webseite installieren.
 
@@ -20,15 +20,15 @@ Lösche alle Dateien im Installationsverzeichnis.
 
 Installation in der Befehlszeile überspringen, nur die wichtigsten Erweiterungen installieren:
 
-`php yellow.php skip installation`  
+`php yellow.php skip installation small`  
 
-Installation in der Befehlszeile überspringen, maximale Anzahl an Erweiterungen installieren:
+Installation in der Befehlszeile überspringen, beinhaltet die [Help-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md):
 
-`php yellow.php skip installation maximal`  
+`php yellow.php skip installation medium`  
 
-Installation in der Befehlszeile überspringen, minimale Anzahl an Erweiterungen installieren:
+Installation in der Befehlszeile überspringen, beinhaltet alle [vorhandenen Erweiterungen](https://datenstrom.se/de/yellow/extensions/):
 
-`php yellow.php skip installation minimal`  
+`php yellow.php skip installation large`  
 
 ## Einstellungen
 
