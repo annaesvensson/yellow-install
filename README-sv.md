@@ -22,7 +22,7 @@ Hoppa över installationen på kommandoraden, installera endast de viktigaste ti
 
 `php yellow.php skip installation small`  
 
-Hoppa över installationen på kommandoraden, omfattar [help tillägget](https://github.com/annaesvensson/yellow-help/tree/main/README-sv) installieren:
+Hoppa över installationen på kommandoraden, omfattar [help tillägget](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md):
 
 `php yellow.php skip installation medium`  
 
