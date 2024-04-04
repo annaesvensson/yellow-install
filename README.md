@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.8.95
+# Install 0.9.1
 
 Install a brand new website.
 
@@ -37,6 +37,7 @@ The following files will be modified during the installation:
 `system/extensions/yellow-system.ini` = file with system settings  
 `system/extensions/yellow-language.ini` = file with language settings  
 `system/extensions/yellow-user.ini` = file with user settings  
+`system/extensions/yellow-extension.ini` = file with extension settings  
 
 The following files will be customised during the installation:
 
