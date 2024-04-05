@@ -38,6 +38,7 @@ Följande filer kommer att ändras under installationen:
 `system/extensions/yellow-language.ini` = fil med språkinställningar  
 `system/extensions/yellow-user.ini` = fil med användarinställningar  
 `system/extensions/yellow-extension.ini` = fil med tilläggsinställningar  
+`system/extensions/yellow-website.log` = loggfilen för webbplatsen  
 
 Följande filer kommer att anpassas under installationen:
 
@@ -47,8 +48,6 @@ Följande filer kommer att anpassas under installationen:
 `content/shared/page-new-wiki.md` = innehållsfil för ny wikisida, [om wiki valdes](https://github.com/annaesvensson/yellow-wiki/tree/main/README-sv.md)  
 `content/shared/page-new-blog.md` = innehållsfil för ny bloggsida, [om blogg valdes](https://github.com/annaesvensson/yellow-blog/tree/main/README-sv.md)  
 `content/shared/page-error-404.md` = innehållsfil för felsidan  
-
-Loggfilen finns i filen `system/extensions/yellow-website.log`.
 
 ## Tack
 

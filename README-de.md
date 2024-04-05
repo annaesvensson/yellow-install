@@ -38,6 +38,7 @@ Die folgenden Dateien werden bei der Installation geändert:
 `system/extensions/yellow-language.ini` = Datei mit Spracheinstellungen  
 `system/extensions/yellow-user.ini` = Datei mit Benutzereinstellungen  
 `system/extensions/yellow-extension.ini` = Datei mit Erweiterungseinstellungen  
+`system/extensions/yellow-website.log` = Logdatei der Webseite  
 
 Die folgenden Dateien werden bei der Installation angepasst:
 
@@ -47,8 +48,6 @@ Die folgenden Dateien werden bei der Installation angepasst:
 `content/shared/page-new-wiki.md` = Inhaltsdatei für neue Wikiseite, [falls Wiki ausgewählt wurde](https://github.com/annaesvensson/yellow-wiki/tree/main/README-de.md)  
 `content/shared/page-new-blog.md` = Inhaltsdatei für neue Blogseite, [falls Blog ausgewählt wurde](https://github.com/annaesvensson/yellow-blog/tree/main/README-de.md)  
 `content/shared/page-error-404.md` = Inhaltsdatei für Fehlerseite  
-
-Die Logdatei findet man in der Datei `system/extensions/yellow-website.log`.
 
 ## Danksagung
 

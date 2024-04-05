@@ -38,6 +38,7 @@ The following files will be modified during the installation:
 `system/extensions/yellow-language.ini` = file with language settings  
 `system/extensions/yellow-user.ini` = file with user settings  
 `system/extensions/yellow-extension.ini` = file with extension settings  
+`system/extensions/yellow-website.log` = log file of the website  
 
 The following files will be customised during the installation:
 
@@ -47,8 +48,6 @@ The following files will be customised during the installation:
 `content/shared/page-new-wiki.md` = content file for new wiki page, [if wiki was selected](https://github.com/annaesvensson/yellow-wiki)  
 `content/shared/page-new-blog.md` = content file for new blog page, [if blog was selected](https://github.com/annaesvensson/yellow-blog)  
 `content/shared/page-error-404.md` = content file for error page  
-
-The log file can be found in file `system/extensions/yellow-website.log`.
 
 ## Acknowledgements
 
