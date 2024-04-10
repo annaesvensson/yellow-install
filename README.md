@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.9.1
+# Install 0.9.2
 
 Install a brand new website.
 
@@ -10,24 +10,20 @@ Install a brand new website.
 
 Download Datenstrom Yellow and follow the installation instructions. The installer helps you with setting up your website and makes sure all installation requirements have been met. Your website is immediately available. The most important things for small websites are included. You can add features, languages and themes. [Get started](https://datenstrom.se/yellow/help/how-to-get-started).
 
-If you want to skip the installation at the [command line](https://github.com/annaesvensson/yellow-core), type `php yellow.php skip installation`.
+## How to skip the installaton
 
-## How to uninstall a website
-
-Delete all files in the installation folder.
+You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites, this is the same as the standard installation. The `medium` option installs also the help extension with the documentation. The `large` option installs all available extensions.
 
 ## Examples
 
-Skipping the installation at the command line, install only the most important things:
+Skipping the installation at the command line:
+
+`php yellow.php skip installation`  
+
+Skipping the installation at the command line, different options:
 
 `php yellow.php skip installation small`  
-
-Skipping the installation at the command line, includes the [help extension](https://github.com/annaesvensson/yellow-help):
-
 `php yellow.php skip installation medium`  
-
-Skipping the installation at the command line, includes all [available extensions](https://datenstrom.se/yellow/extensions/):
-
 `php yellow.php skip installation large`  
 
 ## Settings

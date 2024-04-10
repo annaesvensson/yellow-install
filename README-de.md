@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.9.1
+# Install 0.9.2
 
 Eine brandneue Webseite installieren.
 
@@ -10,24 +10,20 @@ Eine brandneue Webseite installieren.
 
 Datenstrom Yellow herunterladen und der Installationsanleitung folgen. Das Installationsprogramm hilft dir beim Einrichten deiner Webseite und stellt sicher dass alle Installationsanforderungen erfüllt sind. Deine Webseite ist sofort erreichbar. Die wichtigsten Dinge für kleine Webseiten sind mit dabei. Du kannst Funktionen, Sprachen und Themes hinzufügen. [Loslegen](https://datenstrom.se/de/yellow/help/how-to-get-started).
 
-Wenn du die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) überspringen möchtest, kannst du `php yellow.php skip installation` eingeben.
+## Wie man die Installation überspringt
 
-## Wie man eine Webseite deinstalliert
-
-Lösche alle Dateien im Installationsverzeichnis.
+Du kannst die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) überspringen. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php skip installation` gefolgt von einer Option. Die Option `small` installiert nur die wichtigsten Dinge für kleine Webseiten, dies ist dasselbe wie die Standardinstallation. Die Option `medium` installiert auch die Hilfeerweiterung mit der Dokumentation. Die Option `large` installiert alle verfügbaren Erweiterungen.
 
 ## Beispiele
 
-Installation in der Befehlszeile überspringen, nur die wichtigsten Erweiterungen installieren:
+Installation in der Befehlszeile überspringen:
+
+`php yellow.php skip installation`  
+
+Installation in der Befehlszeile überspringen, verschiedene Optionen:
 
 `php yellow.php skip installation small`  
-
-Installation in der Befehlszeile überspringen, beinhaltet die [Help-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md):
-
 `php yellow.php skip installation medium`  
-
-Installation in der Befehlszeile überspringen, beinhaltet alle [vorhandenen Erweiterungen](https://datenstrom.se/de/yellow/extensions/):
-
 `php yellow.php skip installation large`  
 
 ## Einstellungen

@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.9.1
+# Install 0.9.2
 
 Installera en helt ny webbplats.
 
@@ -10,24 +10,20 @@ Installera en helt ny webbplats.
 
 Ladda ner Datenstrom Yellow och följ installationsanvisningarna. Installationsprogrammet hjälper dig att inreda din webbplats och säkerställer att alla installationskrav har uppfyllts. Din webbplats är tillgänglig omedelbart. De viktigaste sakerna för små webbsidor ingår i installationen. Du kan lägga till funktioner, språk och teman. [Komma igång](https://datenstrom.se/sv/yellow/help/how-to-get-started).
 
-Om du vill hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md), skriv `php yellow.php skip installation`.
+## Hur man hoppar över installationen
 
-## Hur man avinstallerar en webbplats
-
-Ta bort alla filer i installationsmappen.
+Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md). Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor, detta är samma som standardinstallationen. Alternativet `medium` installerar även hjälptillägget med dokumentationen. Alternativet `large` installerar alla tillgängliga tillägg.
 
 ## Exempel
 
-Hoppa över installationen på kommandoraden, installera endast de viktigaste tilläggen:
+Hoppa över installationen på kommandoraden:
+
+`php yellow.php skip installation`  
+
+Hoppa över installationen på kommandoraden, olika alternativ:
 
 `php yellow.php skip installation small`  
-
-Hoppa över installationen på kommandoraden, omfattar [help tillägget](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md):
-
 `php yellow.php skip installation medium`  
-
-Hoppa över installationen på kommandoraden, omfattar alla [tillgängliga tillägg](https://datenstrom.se/sv/yellow/extensions/):
-
 `php yellow.php skip installation large`  
 
 ## Inställningar
