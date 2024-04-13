@@ -8,7 +8,7 @@ Installera en helt ny webbplats.
 
 ## Hur man installerar en webbplats
 
-Ladda ner Datenstrom Yellow och följ installationsanvisningarna. Installationsprogrammet hjälper dig att inreda din webbplats och säkerställer att alla installationskrav har uppfyllts. Din webbplats är tillgänglig omedelbart. De viktigaste sakerna för små webbsidor ingår i installationen. Du kan lägga till funktioner, språk och teman. [Komma igång](https://datenstrom.se/sv/yellow/help/how-to-get-started).
+Ladda ner Datenstrom Yellow och följ installationsanvisningarna. Installationsprogrammet hjälper dig att inreda din webbplats och säkerställer att alla installationskrav har uppfyllts. Din webbplats är tillgänglig omedelbart. De viktigaste sakerna ingår. Det finns tillägg med ytterligare funktioner, språk och teman som du kan installera. [Komma igång](https://datenstrom.se/sv/yellow/help/how-to-get-started).
 
 ## Hur man hoppar över installationen
 
