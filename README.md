@@ -12,7 +12,7 @@ Download Datenstrom Yellow and follow the installation instructions. The install
 
 ## How to skip the installaton
 
-You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites, this is the same as the standard installation with the English language. The `medium` option installs also the help extension with the documentation. The `large` option installs all available extensions.
+You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites, this is the same as the standard installation with the English language. The `medium` option installs also the [help extension](https://github.com/annaesvensson/yellow-help). The `large` option installs all available extensions.
 
 ## Examples
 
