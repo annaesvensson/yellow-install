@@ -8,11 +8,11 @@ Install a brand new website.
 
 ## How to install a website
 
-Download Datenstrom Yellow and follow the installation instructions. The installer helps you with setting up your website and makes sure all installation requirements have been met. Your website is immediately available. The most important things are included. You can add more features later. There are extensions with additional features, languages and themes that you can install. [Get started](https://datenstrom.se/yellow/help/how-to-get-started).
+Download Datenstrom Yellow and follow the installation instructions. The installer helps you with setting up your website and makes sure all installation requirements have been met. Your website is immediately available. The most important things are included. There are extensions with additional features, languages and themes that you can install. [Get started](https://datenstrom.se/yellow/help/how-to-get-started).
 
 ## How to skip the installaton
 
-You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites, this is the same as the standard installation with the English language. The `medium` option installs also the [help extension](https://github.com/annaesvensson/yellow-help). The `large` option installs all available extensions.
+You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites, this is the same as the standard installation with the English language. The `medium` option installs also the [help extension](https://github.com/annaesvensson/yellow-help), this is useful if you want to try out some features. The `large` option installs all available extensions.
 
 ## Examples
 
