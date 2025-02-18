@@ -45,10 +45,6 @@ The following files will be customised during the installation:
 `content/shared/page-new-blog.md` = content file for new blog page, [if blog was selected](https://github.com/annaesvensson/yellow-blog)  
 `content/shared/page-error-404.md` = content file for error page  
 
-## Acknowledgements
-
-This extension includes [translations](https://github.com/annaesvensson/yellow-language) by various contributors. Thank you for the good work.
-
 ## Developer
 
 Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).

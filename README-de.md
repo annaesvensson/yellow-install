@@ -45,10 +45,6 @@ Die folgenden Dateien werden bei der Installation angepasst:
 `content/shared/page-new-blog.md` = Inhaltsdatei für neue Blogseite, [falls Blog ausgewählt wurde](https://github.com/annaesvensson/yellow-blog/tree/main/README-de.md)  
 `content/shared/page-error-404.md` = Inhaltsdatei für Fehlerseite  
 
-## Danksagung
-
-Diese Erweiterung enthält [Übersetzungen](https://github.com/annaesvensson/yellow-language/tree/main/README-de.md) von verschiedenen Mitwirkenden. Danke für die gute Arbeit.
-
 ## Entwickler
 
 Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).

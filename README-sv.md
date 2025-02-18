@@ -45,10 +45,6 @@ Följande filer kommer att anpassas under installationen:
 `content/shared/page-new-blog.md` = innehållsfil för ny bloggsida, [om blogg valdes](https://github.com/annaesvensson/yellow-blog/tree/main/README-sv.md)  
 `content/shared/page-error-404.md` = innehållsfil för felsidan  
 
-## Tack
-
-Detta tillägg innehåller [översättningar](https://github.com/annaesvensson/yellow-language/tree/main/README-sv.md) av olika bidragsgivare. Tack för ett bra jobb.
-
 ## Developer
 
 Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
