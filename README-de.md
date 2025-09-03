@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.9.4
+# Install 0.9.5
 
 Eine brandneue Webseite installieren.
 
@@ -33,7 +33,6 @@ Die folgenden Dateien werden bei der Installation geändert:
 `system/extensions/yellow-system.ini` = Datei mit Systemeinstellungen  
 `system/extensions/yellow-language.ini` = Datei mit Spracheinstellungen  
 `system/extensions/yellow-user.ini` = Datei mit Benutzereinstellungen  
-`system/extensions/yellow-extension.ini` = Datei mit Erweiterungseinstellungen  
 `system/extensions/yellow-website.log` = Logdatei der Webseite  
 
 Die folgenden Dateien werden bei der Installation angepasst:

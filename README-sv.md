@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.9.4
+# Install 0.9.5
 
 Installera en helt ny webbplats.
 
@@ -33,7 +33,6 @@ Följande filer kommer att ändras under installationen:
 `system/extensions/yellow-system.ini` = fil med systeminställningar  
 `system/extensions/yellow-language.ini` = fil med språkinställningar  
 `system/extensions/yellow-user.ini` = fil med användarinställningar  
-`system/extensions/yellow-extension.ini` = fil med tilläggsinställningar  
 `system/extensions/yellow-website.log` = loggfilen för webbplatsen  
 
 Följande filer kommer att anpassas under installationen:
