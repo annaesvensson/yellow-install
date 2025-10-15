@@ -33,7 +33,7 @@ Följande filer kommer att ändras under installationen:
 `system/extensions/yellow-system.ini` = fil med systeminställningar  
 `system/extensions/yellow-language.ini` = fil med språkinställningar  
 `system/extensions/yellow-user.ini` = fil med användarinställningar  
-`system/extensions/yellow-website.log` = loggfilen för webbplatsen  
+`system/extensions/yellow-website.log` = webbplatsens loggfil  
 
 Följande filer kommer att anpassas under installationen:
 
