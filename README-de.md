@@ -8,11 +8,11 @@ Eine brandneue Webseite installieren.
 
 ## Wie man eine Webseite installiert
 
-Datenstrom Yellow herunterladen und der Installationsanleitung folgen. Das Installationsprogramm hilft dir beim Einrichten deiner Webseite und stellt sicher dass alle Installationsanforderungen erfüllt sind. Deine Webseite ist sofort erreichbar. Die wichtigsten Dinge sind mit dabei. Du kannst später weitere Funktionen hinzufügen. Es gibt Erweiterungen mit zusätzlichen Funktionen, Sprachen und Themes die du installieren kannst. [Loslegen](https://datenstrom.se/de/yellow/help/how-to-get-started).
+Datenstrom Yellow herunterladen und der Installationsanleitung folgen. Das Installationsprogramm hilft dir beim Einrichten deiner Webseite und stellt sicher dass alle Installationsanforderungen erfüllt sind. Deine Webseite ist sofort erreichbar. Die wichtigsten Dinge sind mit dabei. Du kannst später weitere Funktionen hinzufügen. Es gibt Erweiterungen mit zusätzlichen Funktionen, Sprachen und Themes die du installieren kannst. Hinter dem minimalistischen Design verbirgt sich leistungsfähige Technologie. [Loslegen](https://datenstrom.se/de/yellow/help/how-to-get-started).
 
 ## Wie man die Installation überspringt
 
-Du kannst die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) überspringen. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php skip installation` gefolgt von einer Option. Die Option `small` installiert nur die wichtigsten Dinge für kleine Webseiten, das ist dasselbe wie die Standardinstallation mit der englischen Sprache. Die Option `medium` installiert auch die [Hilfe-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md), das ist praktisch wenn man einige Funktionen ausprobieren will. Die Option `large` installiert alle verfügbaren Erweiterungen.
+Du kannst die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) überspringen. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php skip installation` gefolgt von einer Option. Die Option `small` installiert nur die wichtigsten Dinge für kleine Webseiten, das ist dasselbe wie die Standardinstallation mit der englischen Sprache. Die Option `medium` installiert die [Hilfe-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md) zusammen mit empfohlenen Erweiterungen, das ist praktisch wenn man die Dokumentation verbessern möchte. Die Option `large` installiert alle verfügbaren Erweiterungen, das ist praktisch wenn Systemtests durchführen möchte.
 
 ## Beispiele
 
