@@ -8,7 +8,7 @@ Eine brandneue Webseite installieren.
 
 ## Wie man eine Webseite installiert
 
-Datenstrom Yellow herunterladen und der Installationsanleitung folgen. Das Installationsprogramm hilft dir beim Einrichten deiner Webseite und stellt sicher dass alle Installationsanforderungen erfüllt sind. Deine Webseite ist sofort erreichbar. Die wichtigsten Dinge sind mit dabei. Du kannst später weitere Funktionen hinzufügen. Es gibt Erweiterungen mit zusätzlichen Funktionen, Sprachen und Themes die du installieren kannst. Hinter dem minimalistischen Design verbirgt sich leistungsfähige Technologie. [Loslegen](https://datenstrom.se/de/yellow/help/how-to-get-started).
+Datenstrom Yellow herunterladen und der Installationsanleitung folgen. Das Installationsprogramm hilft dir beim Einrichten deiner Webseite und stellt sicher dass alle Installationsanforderungen erfüllt sind. Falls Problem während der Installation auftreten, dann zeigt deine Webseite eine Fehlermeldung und einen Link zur [Fehlerbehebung](https://datenstrom.se/de/yellow/help/troubleshooting) an. Auf den meisten Webservern ist deine Webseite sofort erreichbar. Die wichtigsten Dinge sind mit dabei. Du kannst später weitere Funktionen hinzufügen. Es gibt Erweiterungen mit zusätzlichen Funktionen, Sprachen und Themes die du installieren kannst. Hinter dem minimalistischen Design verbirgt sich leistungsfähige Technologie. [Loslegen](https://datenstrom.se/de/yellow/help/how-to-get-started).
 
 ## Wie man die Installation überspringt
 
