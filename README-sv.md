@@ -12,7 +12,7 @@ Ladda ner Datenstrom Yellow och följ installationsanvisningarna. Installationsp
 
 ## Hur man hoppar över installationen
 
-Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md). Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor, detta är samma som standardinstallationen på engelska. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md) tillsammans med rekommenderade tillägg, detta är praktiskt om man vill förbättra dokumentationen. Alternativet `large` installerar alla tillgängliga tillägg, detta är praktiskt om man vill köra systemtester.
+Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md). Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor, detta är samma som standardinstallationen på engelska. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md) tillsammans med rekommenderade tillägg, detta är praktiskt om man vill förbättra hjälpen. Alternativet `large` installerar alla tillgängliga tillägg, detta är praktiskt om man vill köra systemtester.
 
 ## Exempel
 
