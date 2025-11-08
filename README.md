@@ -8,9 +8,9 @@ Install a brand new website.
 
 ## How to install a website
 
-Download Datenstrom Yellow and follow the installation instructions. The installer helps you with setting up your website and makes sure all installation requirements have been met. If there are problems during installation your website will display an error message and a link to [troubleshooting](https://datenstrom.se/yellow/help/troubleshooting). Your website is immediately available on most web servers. The most important things are included. You can add more features later. There are extensions with additional features, languages and themes that you can install. Behind the minimalist design lies powerful technology. [Get started](https://datenstrom.se/yellow/help/how-to-get-started).
+Download Datenstrom Yellow and follow the installation instructions. The installer helps you with setting up your website and makes sure all installation requirements have been met. If there are problems during installation your website will display an error message and a link to [troubleshooting](https://datenstrom.se/yellow/help/troubleshooting). But on most web servers your website is immediately available. The most important things are included. You can add more features later. There are extensions with additional features, languages and themes that you can install. Behind the minimalist design lies powerful technology. [Get started](https://datenstrom.se/yellow/help/how-to-get-started).
 
-## How to skip the installaton
+## How to skip the installation
 
 You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites, this is the same as the standard installation with the English language. The `medium` option installs the [help extension](https://github.com/annaesvensson/yellow-help) together with recommended extensions, this is useful if you want to improve the help. The `large` option installs all available extensions, this is useful if you want to run system tests.
 
