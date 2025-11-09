@@ -8,7 +8,7 @@ Install a brand new website.
 
 ## How to install a website
 
-Download Datenstrom Yellow and follow the installation instructions. The installer helps you with setting up your website and makes sure all installation requirements have been met. If there are problems during installation your website will display an error message and a link to [troubleshooting](https://datenstrom.se/yellow/help/troubleshooting). But on most web servers your website is immediately available. The most important things are included. You can add more features later. There are extensions with additional features, languages and themes that you can install. Behind the minimalist design lies powerful technology. [Get started](https://datenstrom.se/yellow/help/how-to-get-started).
+Download Datenstrom Yellow and follow the installation instructions. The installer helps you with setting up your website and makes sure all installation requirements have been met. If there are problems during installation your website will display an error message and a link to [troubleshooting](https://datenstrom.se/yellow/help/troubleshooting). But on most web servers your website is immediately available. The most important things are included. [Get started](https://datenstrom.se/yellow/help/how-to-get-started).
 
 ## How to skip the installation
 
