@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.9.5
+# Install 0.9.6
 
 Installera en helt ny webbplats.
 
@@ -8,11 +8,11 @@ Installera en helt ny webbplats.
 
 ## Hur man installerar en webbplats
 
-Ladda ner Datenstrom Yellow och följ installationsanvisningarna. Installationsprogrammet hjälper dig att inreda din webbplats och säkerställer att alla installationskrav har uppfyllts. Om problem uppstår under installationen kommer din webbplats att visa ett felmeddelande och en länk till [felsökning](https://datenstrom.se/sv/yellow/help/troubleshooting). Men på de flesta webbservrar är din webbplats tillgänglig omedelbart. De viktigaste sakerna ingår. [Komma igång](https://datenstrom.se/sv/yellow/help/how-to-get-started).
+Ladda ner Datenstrom Yellow och följ installationsanvisningarna. Installationsprogrammet hjälper dig att inreda din webbplats och säkerställer att alla installationskrav har uppfyllts. Om problem uppstår under installationen kommer din webbplats att visa ett felmeddelande och en länk till [felsökning](https://datenstrom.se/sv/yellow/help/troubleshooting). Men på de flesta webbservrar kommer din webbplats att vara omedelbart tillgänglig. De viktigaste sakerna ingår. [Komma igång](https://datenstrom.se/sv/yellow/help/how-to-get-started).
 
 ## Hur man hoppar över installationen
 
-Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md). Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor, detta är samma som standardinstallationen på engelska. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md) tillsammans med rekommenderade tillägg, detta är praktiskt om man vill förbättra hjälpen. Alternativet `large` installerar alla tillgängliga tillägg, detta är praktiskt om man vill köra systemtester.
+Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md). Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor, detta är samma som standardinstallationen på engelska. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md) tillsammans med rekommenderade tillägg, detta är praktiskt om man vill göra prestandatestning. Alternativet `large` installerar alla tillgängliga tillägg, detta är praktiskt om man vill köra systemtester.
 
 ## Exempel
 

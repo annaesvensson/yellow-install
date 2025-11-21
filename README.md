@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Install 0.9.5
+# Install 0.9.6
 
 Install a brand new website.
 
@@ -8,11 +8,11 @@ Install a brand new website.
 
 ## How to install a website
 
-Download Datenstrom Yellow and follow the installation instructions. The installer helps you with setting up your website and makes sure all installation requirements have been met. If there are problems during installation your website will display an error message and a link to [troubleshooting](https://datenstrom.se/yellow/help/troubleshooting). But on most web servers your website is immediately available. The most important things are included. [Get started](https://datenstrom.se/yellow/help/how-to-get-started).
+Download Datenstrom Yellow and follow the installation instructions. The installer helps you with setting up your website and makes sure all installation requirements have been met. If there are problems during installation your website will display an error message and a link to the [troubleshooting](https://datenstrom.se/yellow/help/troubleshooting). But on most web servers your website will be immediately available. The most important things are included. [Get started](https://datenstrom.se/yellow/help/how-to-get-started).
 
 ## How to skip the installation
 
-You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites, this is the same as the standard installation with the English language. The `medium` option installs the [help extension](https://github.com/annaesvensson/yellow-help) together with recommended extensions, this is useful if you want to improve the help. The `large` option installs all available extensions, this is useful if you want to run system tests.
+You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites, this is the same as the standard installation with the English language. The `medium` option installs the [help extension](https://github.com/annaesvensson/yellow-help) together with recommended extensions, this is useful if you want to do performance testing. The `large` option installs all available extensions, this is useful if you want to run system tests.
 
 ## Examples
 
