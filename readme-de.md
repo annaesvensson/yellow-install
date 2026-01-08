@@ -1,10 +1,10 @@
-<p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
+<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
 
 # Install 0.9.7
 
 Eine brandneue Webseite installieren.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Bildschirmfoto"></p>
+<p align="center"><img src="screenshot.png" alt="Bildschirmfoto"></p>
 
 ## Wie man eine Webseite installiert
 
@@ -12,7 +12,7 @@ Datenstrom Yellow herunterladen und der Installationsanleitung folgen. Das Insta
 
 ## Wie man die Installation überspringt
 
-Du kannst die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md) überspringen. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php skip installation` gefolgt von einer Option. Die Option `small` installiert nur die wichtigsten Dinge für kleine Webseiten, das ist dasselbe wie die Standardinstallation mit der englischen Sprache. Die Option `medium` installiert die [Hilfe-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/README-de.md) zusammen mit empfohlenen Erweiterungen, das ist praktisch wenn man Leistungstests machen möchte. Die Option `large` installiert alle verfügbaren Erweiterungen, das ist praktisch wenn man Systemtests durchführen möchte.
+Du kannst die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/readme-de.md) überspringen. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php skip installation` gefolgt von einer Option. Die Option `small` installiert nur die wichtigsten Dinge für kleine Webseiten, das ist dasselbe wie die Standardinstallation mit der englischen Sprache. Die Option `medium` installiert die [Hilfe-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/readme-de.md) zusammen mit empfohlenen Erweiterungen, das ist praktisch wenn man Leistungstests machen möchte. Die Option `large` installiert alle verfügbaren Erweiterungen, das ist praktisch wenn man Systemtests durchführen möchte.
 
 ## Beispiele
 
@@ -40,8 +40,8 @@ Die folgenden Dateien werden bei der Installation angepasst:
 `content/1-home/page.md` = Inhaltsdatei für die Startseite  
 `content/9-about/page.md` = Inhaltsdatei für die Informationsseite  
 `content/shared/page-new-default.md` = Inhaltsdatei für neue Seite  
-`content/shared/page-new-wiki.md` = Inhaltsdatei für neue Wikiseite, [falls Wiki ausgewählt wurde](https://github.com/annaesvensson/yellow-wiki/tree/main/README-de.md)  
-`content/shared/page-new-blog.md` = Inhaltsdatei für neue Blogseite, [falls Blog ausgewählt wurde](https://github.com/annaesvensson/yellow-blog/tree/main/README-de.md)  
+`content/shared/page-new-wiki.md` = Inhaltsdatei für neue Wikiseite, [falls Wiki ausgewählt wurde](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-de.md)  
+`content/shared/page-new-blog.md` = Inhaltsdatei für neue Blogseite, [falls Blog ausgewählt wurde](https://github.com/annaesvensson/yellow-blog/tree/main/readme-de.md)  
 `content/shared/page-error-404.md` = Inhaltsdatei für Fehlerseite  
 
 ## Entwickler

@@ -1,10 +1,10 @@
-<p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
+<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
 
 # Install 0.9.7
 
 Installera en helt ny webbplats.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Skärmdump"></p>
+<p align="center"><img src="screenshot.png" alt="Skärmdump"></p>
 
 ## Hur man installerar en webbplats
 
@@ -12,7 +12,7 @@ Ladda ner Datenstrom Yellow och följ installationsanvisningarna. Installationsp
 
 ## Hur man hoppar över installationen
 
-Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md). Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor, detta är samma som standardinstallationen på engelska. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/README-sv.md) tillsammans med rekommenderade tillägg, detta är praktiskt om man vill göra prestandatestning. Alternativet `large` installerar alla tillgängliga tillägg, detta är praktiskt om man vill köra systemtester.
+Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/readme-sv.md). Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor, detta är samma som standardinstallationen på engelska. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/readme-sv.md) tillsammans med rekommenderade tillägg, detta är praktiskt om man vill göra prestandatestning. Alternativet `large` installerar alla tillgängliga tillägg, detta är praktiskt om man vill köra systemtester.
 
 ## Exempel
 
@@ -40,8 +40,8 @@ Följande filer kommer att anpassas under installationen:
 `content/1-home/page.md` = innehållsfil för hemsidan  
 `content/9-about/page.md` = innehållsfil för informationssidan  
 `content/shared/page-new-default.md` = innehållsfil för ny sida  
-`content/shared/page-new-wiki.md` = innehållsfil för ny wikisida, [om wiki valdes](https://github.com/annaesvensson/yellow-wiki/tree/main/README-sv.md)  
-`content/shared/page-new-blog.md` = innehållsfil för ny bloggsida, [om blogg valdes](https://github.com/annaesvensson/yellow-blog/tree/main/README-sv.md)  
+`content/shared/page-new-wiki.md` = innehållsfil för ny wikisida, [om wiki valdes](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md)  
+`content/shared/page-new-blog.md` = innehållsfil för ny bloggsida, [om blogg valdes](https://github.com/annaesvensson/yellow-blog/tree/main/readme-sv.md)  
 `content/shared/page-error-404.md` = innehållsfil för felsidan  
 
 ## Developer
