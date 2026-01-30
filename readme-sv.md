@@ -6,7 +6,7 @@ Installera en helt ny webbplats. Utvecklad av Anna Svensson.
 
 ## Hur man installerar en webbplats
 
-Ladda ner Datenstrom Yellow och följ installationsanvisningarna. Du hälsas med ett hej och ser ett urval av möjliga [språk](https://github.com/annaesvensson/yellow-language/tree/main/readme-sv.md). Installationsprogrammet hjälper dig att inreda din webbplats och säkerställer att alla installationskrav har uppfyllts. Om tekniska problem uppstår under installationen kommer din webbplats att visa ett felmeddelande och en länk till [felsökning](https://datenstrom.se/sv/yellow/help/troubleshooting). Men på de flesta webbservrar kommer din webbplats att vara omedelbart tillgänglig. De viktigaste sakerna ingår. [Komma igång](https://datenstrom.se/sv/yellow/help/how-to-get-started).
+Ladda ner Datenstrom Yellow och följ installationsanvisningarna. Du hälsas med ett hej och ser ett urval av [språk](https://github.com/annaesvensson/yellow-language/tree/main/readme-sv.md). Installationsprogrammet hjälper dig att inreda din webbplats och säkerställer att alla installationskrav har uppfyllts. Om tekniska problem uppstår under installationen kommer din webbplats att visa ett felmeddelande och en länk till [felsökning](https://datenstrom.se/sv/yellow/help/troubleshooting). Men på de flesta webbservrar kommer din webbplats att vara omedelbart tillgänglig. De viktigaste sakerna ingår. [Komma igång](https://datenstrom.se/sv/yellow/help/how-to-get-started).
 
 ## Hur man hoppar över installationen
 
