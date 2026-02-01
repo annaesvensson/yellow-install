@@ -6,7 +6,7 @@ Install a brand new website. Developed by Anna Svensson.
 
 ## How to install a website
 
-[Follow the installation instructions](https://datenstrom.se/yellow/help/how-to-get-started). You are greeted with a hello, can create a user account and select your [language](https://github.com/annaesvensson/yellow-language). The installer helps you with setting up your website and makes sure all installation requirements have been met. If there are problems during installation your website will display an error message and a link to the [troubleshooting](https://datenstrom.se/yellow/help/troubleshooting). But on most web servers your website will be immediately available. The most important things are included.
+[Follow the installation instructions](https://datenstrom.se/yellow/help/how-to-get-started). You are greeted with a hello, can create a [user account](https://github.com/annaesvensson/yellow-edit) and select your [language](https://github.com/annaesvensson/yellow-language). The installer helps you with setting up your website and makes sure all installation requirements have been met. If there are problems during installation the installer will display an error message and a link to the [troubleshooting](https://datenstrom.se/yellow/help/troubleshooting).
 
 ## How to skip the installation
 
