@@ -1,4 +1,4 @@
-# Install 0.9.7
+# Install 0.9.8
 
 Eine brandneue Webseite installieren. Entwickelt von Anna Svensson.
 

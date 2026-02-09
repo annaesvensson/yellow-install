@@ -1,4 +1,4 @@
-# Install 0.9.7
+# Install 0.9.8
 
 Install a brand new website. Developed by Anna Svensson.
 

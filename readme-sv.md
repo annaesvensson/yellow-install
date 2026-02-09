@@ -1,4 +1,4 @@
-# Install 0.9.7
+# Install 0.9.8
 
 Installera en helt ny webbplats. Utvecklad av Anna Svensson.
 
