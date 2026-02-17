@@ -1,4 +1,4 @@
-# Install 0.9.8
+# Install 0.9.9
 
 Install a brand new website. Developed by Anna Svensson.
 
@@ -10,7 +10,7 @@ Install a brand new website. Developed by Anna Svensson.
 
 ## How to skip the installation
 
-You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). This is useful for developers who want to run automatic installations and system tests. Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites. The `medium` option installs the [help extension](https://github.com/annaesvensson/yellow-help) together with recommended extensions. The `large` option installs all [extensions on the official website](https://datenstrom.se/yellow/extensions/).
+You can skip the installation at the [command line](https://github.com/annaesvensson/yellow-core). This is convenient for developers who want to run automatic installations and system tests. Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php skip installation` followed by an option. The `small` option installs only the most important things for small websites. The `medium` option installs the [help extension](https://github.com/annaesvensson/yellow-help) together with recommended extensions. The `large` option installs all [extensions on the official website](https://datenstrom.se/yellow/extensions/).
 
 ## Examples
 
