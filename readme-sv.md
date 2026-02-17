@@ -10,7 +10,7 @@ Installera en helt ny webbplats. Utvecklad av Anna Svensson.
 
 ## Hur man hoppar över installationen
 
-Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/readme-sv.md). Öppna ett terminalfönster. Detta är praktiskt för utvecklare som vill köra systemtester. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor, detta är samma som standardinstallationen. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/readme-sv.md) tillsammans med rekommenderade tillägg. Alternativet `large` installerar alla [tillägg på officiella webbplatsen](https://datenstrom.se/sv/yellow/extensions/).
+Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/readme-sv.md). Öppna ett terminalfönster. Detta är praktiskt för utvecklare som vill köra automatiska installationer och systemtester. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/readme-sv.md) tillsammans med rekommenderade tillägg. Alternativet `large` installerar alla [tillägg på officiella webbplatsen](https://datenstrom.se/sv/yellow/extensions/).
 
 ## Exempel
 
