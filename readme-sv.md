@@ -1,4 +1,4 @@
-# Install 0.9.9
+# Install 0.9.10
 
 Installera en helt ny webbplats. Utvecklad av Anna Svensson.
 
@@ -6,11 +6,11 @@ Installera en helt ny webbplats. Utvecklad av Anna Svensson.
 
 ## Hur man installerar en webbplats
 
-[Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Du hälsas med ett hej, kan skapa ett [användarkonto](https://github.com/annaesvensson/yellow-edit/tree/main/readme-sv.md) och välja ett [språk](https://github.com/annaesvensson/yellow-language/tree/main/readme-sv.md). Dessutom kan du välja vilken typ av webbplats du vill göra. Alternativet `Liten webbsida` installerar endast de viktigaste funktionerna för små webbsidor. Alternativet `Liten wiki` installerar också [wiki-tillägget](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md). Alternativet `Liten blogg` installerar också [blogg-tillägget](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md). Du kan installera fler tillägg senare. Om problem uppstår under installationen visas ett felmeddelande och en länk till [felsökning](https://datenstrom.se/sv/yellow/help/troubleshooting).
+[Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Du hälsas med ett hej, kan skapa ett [användarkonto](https://github.com/annaesvensson/yellow-edit/tree/main/readme-sv.md) och välja ett [språk](https://github.com/annaesvensson/yellow-language/tree/main/readme-sv.md). Dessutom kan du välja vilken typ av webbplats du vill göra. Alternativet `Liten webbsida` installerar de viktigaste funktionerna för en liten webbsida. Alternativet `Liten wiki` installerar också [wiki-tillägget](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md). Alternativet `Liten blogg` installerar också [blogg-tillägget](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md). Du kan installera fler tillägg senare. Om problem uppstår under installationen visas ett felmeddelande och en länk till [felsökning](https://datenstrom.se/sv/yellow/help/troubleshooting).
 
 ## Hur man hoppar över installationen
 
-Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/readme-sv.md). Öppna ett terminalfönster. Detta är praktiskt för utvecklare som vill köra automatiska installationer och systemtester. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar bara de viktigaste sakerna för små webbsidor. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/readme-sv.md) tillsammans med rekommenderade tillägg. Alternativet `large` installerar alla [tillägg på officiella webbplatsen](https://datenstrom.se/sv/yellow/extensions/).
+Du kan hoppa över installationen på [kommandoraden](https://github.com/annaesvensson/yellow-core/tree/main/readme-sv.md). Öppna ett terminalfönster. Detta är praktiskt för utvecklare som vill köra automatiska installationer och systemtester. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php skip installation` följt av ett alternativ. Alternativet `small` installerar de viktigaste sakerna för en liten webbsida. Alternativet `medium` installerar [hjälp-tillägget](https://github.com/annaesvensson/yellow-help/tree/main/readme-sv.md) tillsammans med rekommenderade tillägg. Alternativet `large` installerar alla [tillägg på officiella webbplatsen](https://datenstrom.se/sv/yellow/extensions/).
 
 ## Exempel
 

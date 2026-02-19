@@ -1,4 +1,4 @@
-# Install 0.9.9
+# Install 0.9.10
 
 Eine brandneue Webseite installieren. Entwickelt von Anna Svensson.
 
@@ -6,11 +6,11 @@ Eine brandneue Webseite installieren. Entwickelt von Anna Svensson.
 
 ## Wie man eine Webseite installiert
 
-[Folge der Installationsanleitung](https://datenstrom.se/de/yellow/help/how-to-get-started). Du wirst mit einem Hallo begrüßt, kannst ein [Benutzerkonto](https://github.com/annaesvensson/yellow-edit/tree/main/readme-de.md) erstellen und eine [Sprache](https://github.com/annaesvensson/yellow-language/tree/main/readme-de.md) auswählen. Darüber hinaus kannst du auswählen welche Art von Webseite du machen möchtest. Die Option `Kleine Webseite` installiert nur die wichtigsten Dinge für kleine Webseiten. Die Option `Kleines Wiki` installiert zusätzlich noch die [Wiki-Erweiterung](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-de.md). Die Option `Kleines Blog` installiert zusätzlich noch die [Blog-Erweiterung](https://github.com/annaesvensson/yellow-blog/tree/main/readme-de.md). Du kannst später weitere Erweiterungen installieren. Falls Probleme während der Installation auftreten, dann wird eine Fehlermeldung und einen Link zur [Fehlerbehebung](https://datenstrom.se/de/yellow/help/troubleshooting) angezeigt.
+[Folge der Installationsanleitung](https://datenstrom.se/de/yellow/help/how-to-get-started). Du wirst mit einem Hallo begrüßt, kannst ein [Benutzerkonto](https://github.com/annaesvensson/yellow-edit/tree/main/readme-de.md) erstellen und eine [Sprache](https://github.com/annaesvensson/yellow-language/tree/main/readme-de.md) auswählen. Darüber hinaus kannst du auswählen welche Art von Webseite du machen möchtest. Die Option `Kleine Webseite` installiert die wichtigsten Dinge für eine kleine Webseite. Die Option `Kleines Wiki` installiert zusätzlich noch die [Wiki-Erweiterung](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-de.md). Die Option `Kleines Blog` installiert zusätzlich noch die [Blog-Erweiterung](https://github.com/annaesvensson/yellow-blog/tree/main/readme-de.md). Du kannst später weitere Erweiterungen installieren. Falls Probleme während der Installation auftreten, dann wird eine Fehlermeldung und einen Link zur [Fehlerbehebung](https://datenstrom.se/de/yellow/help/troubleshooting) angezeigt.
 
 ## Wie man die Installation überspringt
 
-Du kannst die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/readme-de.md) überspringen. Das ist praktisch für Entwickler die automatische Installationen und Systemtests durchführen möchten. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php skip installation` gefolgt von einer Option. Die Option `small` installiert nur die wichtigsten Dinge für kleine Webseiten. Die Option `medium` installiert die [Hilfe-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/readme-de.md) zusammen mit den empfohlenen Erweiterungen. Die Option `large` installiert alle [Erweiterungen auf der offiziellen Webseite](https://datenstrom.se/de/yellow/extensions/).
+Du kannst die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/readme-de.md) überspringen. Das ist praktisch für Entwickler die automatische Installationen und Systemtests durchführen möchten. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php skip installation` gefolgt von einer Option. Die Option `small` installiert die wichtigsten Dinge für eine kleine Webseite. Die Option `medium` installiert die [Hilfe-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/readme-de.md) zusammen mit den empfohlenen Erweiterungen. Die Option `large` installiert alle [Erweiterungen auf der offiziellen Webseite](https://datenstrom.se/de/yellow/extensions/).
 
 ## Beispiele
 
