@@ -6,7 +6,7 @@ Eine brandneue Webseite installieren. Entwickelt von Anna Svensson.
 
 ## Wie man eine Webseite installiert
 
-[Folge der Installationsanleitung](https://datenstrom.se/de/yellow/help/how-to-get-started). Du wirst mit einem Hallo begrüßt, kannst ein [Benutzerkonto](https://github.com/annaesvensson/yellow-edit/tree/main/readme-de.md) erstellen und eine [Sprache](https://github.com/annaesvensson/yellow-language/tree/main/readme-de.md) auswählen. Darüber hinaus kannst du auswählen welche Art von Webseite du machen möchtest. Die Option `Kleine Webseite` installiert die wichtigsten Dinge für eine kleine Webseite. Die Option `Kleines Wiki` installiert zusätzlich noch die [Wiki-Erweiterung](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-de.md). Die Option `Kleines Blog` installiert zusätzlich noch die [Blog-Erweiterung](https://github.com/annaesvensson/yellow-blog/tree/main/readme-de.md). Du kannst später weitere Erweiterungen installieren. Falls Probleme während der Installation auftreten, dann wird eine Fehlermeldung und einen Link zur [Fehlerbehebung](https://datenstrom.se/de/yellow/help/troubleshooting) angezeigt.
+[Folge der Installationsanleitung](https://datenstrom.se/de/yellow/help/how-to-get-started). Du wirst mit einem Hallo begrüßt, kannst ein [Benutzerkonto](https://github.com/annaesvensson/yellow-edit/tree/main/readme-de.md) erstellen und eine [Sprache](https://github.com/annaesvensson/yellow-language/tree/main/readme-de.md) auswählen. Darüber hinaus kannst du auswählen welche Art von Webseite du machen möchtest. Die Option `Kleine Webseite` installiert die wichtigsten Dinge für eine kleine Webseite. Die Option `Kleines Wiki` installiert zusätzlich noch die [Wiki-Erweiterung](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-de.md). Die Option `Kleines Blog` installiert zusätzlich noch die [Blog-Erweiterung](https://github.com/annaesvensson/yellow-blog/tree/main/readme-de.md). Du kannst später weitere Erweiterungen installieren.
 
 ## Wie man die Installation überspringt
 
@@ -26,6 +26,14 @@ Installation in der Befehlszeile überspringen, verschiedene Optionen:
 
 ## Einstellungen
 
+Die folgenden Einstellungen werden in der Datei `system/extensions/yellow-system.ini` initialisiert:
+
+`Sitename` = Name der Webseite  
+`Author` = Name des Webmasters  
+`Email` = E-Mail des Webmasters  
+`From` = E-Mail für ausgehende Nachrichten  
+`Language` = Standard-Sprache, z.B. `de`  
+
 Die folgenden Dateien werden bei der Installation geändert:
 
 `system/extensions/yellow-system.ini` = Datei mit Systemeinstellungen  
@@ -33,7 +41,7 @@ Die folgenden Dateien werden bei der Installation geändert:
 `system/extensions/yellow-user.ini` = Datei mit Benutzereinstellungen  
 `system/extensions/yellow-website.log` = Logdatei der Webseite  
 
-Die folgenden Dateien werden bei der Installation angepasst:
+Die folgenden Dateien werden bei der Installation geändert:
 
 `content/1-home/page.md` = Inhaltsdatei für die Startseite  
 `content/9-about/page.md` = Inhaltsdatei für die Informationsseite  

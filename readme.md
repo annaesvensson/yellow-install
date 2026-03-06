@@ -6,7 +6,7 @@ Install a brand new website. Developed by Anna Svensson.
 
 ## How to install a website
 
-[Follow the installation instructions](https://datenstrom.se/yellow/help/how-to-get-started). You are greeted with a hello, can create a [user account](https://github.com/annaesvensson/yellow-edit) and select a [language](https://github.com/annaesvensson/yellow-language). You can also choose what kind of website you want to make. The `Small website` option installs the most important things for a small website. The `Small wiki` option also installs the [wiki extension](https://github.com/annaesvensson/yellow-wiki). The `Small blog` option also installs the [blog extension](https://github.com/annaesvensson/yellow-blog). You can install more extensions later. If there are problems during installation an error message and a link to the [troubleshooting](https://datenstrom.se/yellow/help/troubleshooting) will be displayed.
+[Follow the installation instructions](https://datenstrom.se/yellow/help/how-to-get-started). You are greeted with a hello, can create a [user account](https://github.com/annaesvensson/yellow-edit) and select a [language](https://github.com/annaesvensson/yellow-language). You can also choose what kind of website you want to make. The `Small website` option installs the most important things for a small website. The `Small wiki` option also installs the [wiki extension](https://github.com/annaesvensson/yellow-wiki). The `Small blog` option also installs the [blog extension](https://github.com/annaesvensson/yellow-blog). You can install more extensions later.
 
 ## How to skip the installation
 
@@ -26,6 +26,14 @@ Skipping the installation at the command line, different options:
 
 ## Settings
 
+The following settings will be initialised in file `system/extensions/yellow-system.ini`:
+
+`Sitename` = name of the website  
+`Author` = name of the webmaster  
+`Email` = email of the webmaster  
+`From` = email for outgoing messages  
+`Language` = default language, e.g. `en`  
+
 The following files will be modified during the installation:
 
 `system/extensions/yellow-system.ini` = file with system settings  
@@ -33,7 +41,7 @@ The following files will be modified during the installation:
 `system/extensions/yellow-user.ini` = file with user settings  
 `system/extensions/yellow-website.log` = log file of the website  
 
-The following files will be customised during the installation:
+The following files will be modified during the installation:
 
 `content/1-home/page.md` = content file for home page  
 `content/9-about/page.md` = content file for information page  

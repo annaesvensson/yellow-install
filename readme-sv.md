@@ -6,7 +6,7 @@ Installera en helt ny webbplats. Utvecklad av Anna Svensson.
 
 ## Hur man installerar en webbplats
 
-[Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Du hälsas med ett hej, kan skapa ett [användarkonto](https://github.com/annaesvensson/yellow-edit/tree/main/readme-sv.md) och välja ett [språk](https://github.com/annaesvensson/yellow-language/tree/main/readme-sv.md). Dessutom kan du välja vilken typ av webbplats du vill göra. Alternativet `Liten webbsida` installerar de viktigaste funktionerna för en liten webbsida. Alternativet `Liten wiki` installerar också [wiki-tillägget](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md). Alternativet `Liten blogg` installerar också [blogg-tillägget](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md). Du kan installera fler tillägg senare. Om problem uppstår under installationen visas ett felmeddelande och en länk till [felsökning](https://datenstrom.se/sv/yellow/help/troubleshooting).
+[Följ installationsanvisningarna](https://datenstrom.se/sv/yellow/help/how-to-get-started). Du hälsas med ett hej, kan skapa ett [användarkonto](https://github.com/annaesvensson/yellow-edit/tree/main/readme-sv.md) och välja ett [språk](https://github.com/annaesvensson/yellow-language/tree/main/readme-sv.md). Dessutom kan du välja vilken typ av webbplats du vill göra. Alternativet `Liten webbsida` installerar de viktigaste funktionerna för en liten webbsida. Alternativet `Liten wiki` installerar också [wiki-tillägget](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md). Alternativet `Liten blogg` installerar också [blogg-tillägget](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md). Du kan installera fler tillägg senare.
 
 ## Hur man hoppar över installationen
 
@@ -26,6 +26,14 @@ Hoppa över installationen på kommandoraden, olika alternativ:
 
 ## Inställningar
 
+Följande inställningar kommer att initialiseras i filen `system/extensions/yellow-system.ini`:
+
+`Sitename` = webbplatsens namn  
+`Author` = webmasterns namn  
+`Email` = webmasterns email  
+`From` = email för utgående meddelanden  
+`Language` = standardspråk, t.ex. `sv`  
+
 Följande filer kommer att ändras under installationen:
 
 `system/extensions/yellow-system.ini` = fil med systeminställningar  
@@ -33,7 +41,7 @@ Följande filer kommer att ändras under installationen:
 `system/extensions/yellow-user.ini` = fil med användarinställningar  
 `system/extensions/yellow-website.log` = webbplatsens loggfil  
 
-Följande filer kommer att anpassas under installationen:
+Följande filer kommer att ändras under installationen:
 
 `content/1-home/page.md` = innehållsfil för hemsidan  
 `content/9-about/page.md` = innehållsfil för informationssidan  
