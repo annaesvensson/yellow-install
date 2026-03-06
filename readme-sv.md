@@ -26,7 +26,7 @@ Hoppa över installationen på kommandoraden, olika alternativ:
 
 ## Inställningar
 
-Följande systeminställningar kommer kommer att ändras under installationen:
+Följande systeminställningar kommer att ändras under installationen:
 
 `Sitename` = webbplatsens namn  
 `Author` = webmasterns namn  
