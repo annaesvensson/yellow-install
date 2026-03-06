@@ -26,7 +26,7 @@ Hoppa över installationen på kommandoraden, olika alternativ:
 
 ## Inställningar
 
-Följande inställningar kommer att initialiseras i filen `system/extensions/yellow-system.ini`:
+Följande systeminställningar kommer kommer att ändras under installationen:
 
 `Sitename` = webbplatsens namn  
 `Author` = webmasterns namn  

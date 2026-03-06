@@ -26,7 +26,7 @@ Installation in der Befehlszeile überspringen, verschiedene Optionen:
 
 ## Einstellungen
 
-Die folgenden Einstellungen werden in der Datei `system/extensions/yellow-system.ini` initialisiert:
+Die folgenden Systemeinstellungen werden bei der Installation geändert:
 
 `Sitename` = Name der Webseite  
 `Author` = Name des Webmasters  

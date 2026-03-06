@@ -26,7 +26,7 @@ Skipping the installation at the command line, different options:
 
 ## Settings
 
-The following settings will be initialised in file `system/extensions/yellow-system.ini`:
+The following system settings will be modified during the installation:
 
 `Sitename` = name of the website  
 `Author` = name of the webmaster  
