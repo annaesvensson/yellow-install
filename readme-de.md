@@ -1,4 +1,4 @@
-# Install 0.9.12
+# Install 0.9.13
 
 Eine brandneue Webseite installieren. Entwickelt von Anna Svensson.
 
@@ -36,18 +36,15 @@ Die folgenden Systemeinstellungen werden bei der Installation geändert:
 
 Die folgenden Dateien werden bei der Installation geändert:
 
-`system/extensions/yellow-system.ini` = Datei mit Systemeinstellungen  
-`system/extensions/yellow-language.ini` = Datei mit Spracheinstellungen  
-`system/extensions/yellow-user.ini` = Datei mit Benutzereinstellungen  
-`system/extensions/yellow-website.log` = Logdatei der Webseite  
-
-Die folgenden Dateien werden bei der Installation geändert:
-
 `content/1-home/page.md` = Inhaltsdatei für die Startseite  
 `content/9-about/page.md` = Inhaltsdatei für die Informationsseite  
 `content/shared/page-new-default.md` = Inhaltsdatei für neue Seite  
 `content/shared/page-new-wiki.md` = Inhaltsdatei für neue Wikiseite, [falls Wiki ausgewählt wurde](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-de.md)  
 `content/shared/page-new-blog.md` = Inhaltsdatei für neue Blogseite, [falls Blog ausgewählt wurde](https://github.com/annaesvensson/yellow-blog/tree/main/readme-de.md)  
 `content/shared/page-error-404.md` = Inhaltsdatei für Fehlerseite  
+`system/extensions/yellow-system.ini` = Datei mit Systemeinstellungen  
+`system/extensions/yellow-language.ini` = Datei mit Spracheinstellungen  
+`system/extensions/yellow-user.ini` = Datei mit Benutzereinstellungen  
+`system/extensions/yellow-website.log` = Logdatei der Webseite  
 
 Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).

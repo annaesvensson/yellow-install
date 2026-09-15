@@ -1,4 +1,4 @@
-# Install 0.9.12
+# Install 0.9.13
 
 Installera en helt ny webbplats. Utvecklad av Anna Svensson.
 
@@ -36,18 +36,15 @@ Följande systeminställningar kommer att ändras under installationen:
 
 Följande filer kommer att ändras under installationen:
 
-`system/extensions/yellow-system.ini` = fil med systeminställningar  
-`system/extensions/yellow-language.ini` = fil med språkinställningar  
-`system/extensions/yellow-user.ini` = fil med användarinställningar  
-`system/extensions/yellow-website.log` = webbplatsens loggfil  
-
-Följande filer kommer att ändras under installationen:
-
 `content/1-home/page.md` = innehållsfil för hemsidan  
 `content/9-about/page.md` = innehållsfil för informationssidan  
 `content/shared/page-new-default.md` = innehållsfil för ny sida  
 `content/shared/page-new-wiki.md` = innehållsfil för ny wikisida, [om wiki valdes](https://github.com/annaesvensson/yellow-wiki/tree/main/readme-sv.md)  
 `content/shared/page-new-blog.md` = innehållsfil för ny bloggsida, [om blogg valdes](https://github.com/annaesvensson/yellow-blog/tree/main/readme-sv.md)  
 `content/shared/page-error-404.md` = innehållsfil för felsidan  
+`system/extensions/yellow-system.ini` = fil med systeminställningar  
+`system/extensions/yellow-language.ini` = fil med språkinställningar  
+`system/extensions/yellow-user.ini` = fil med användarinställningar  
+`system/extensions/yellow-website.log` = webbplatsens loggfil  
 
 Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).

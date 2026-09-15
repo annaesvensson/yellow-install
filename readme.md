@@ -1,4 +1,4 @@
-# Install 0.9.12
+# Install 0.9.13
 
 Install a brand new website. Developed by Anna Svensson.
 
@@ -36,18 +36,15 @@ The following system settings will be modified during the installation:
 
 The following files will be modified during the installation:
 
-`system/extensions/yellow-system.ini` = file with system settings  
-`system/extensions/yellow-language.ini` = file with language settings  
-`system/extensions/yellow-user.ini` = file with user settings  
-`system/extensions/yellow-website.log` = log file of the website  
-
-The following files will be modified during the installation:
-
 `content/1-home/page.md` = content file for home page  
 `content/9-about/page.md` = content file for information page  
 `content/shared/page-new-default.md` = content file for new page  
 `content/shared/page-new-wiki.md` = content file for new wiki page, [if wiki was selected](https://github.com/annaesvensson/yellow-wiki)  
 `content/shared/page-new-blog.md` = content file for new blog page, [if blog was selected](https://github.com/annaesvensson/yellow-blog)  
 `content/shared/page-error-404.md` = content file for error page  
+`system/extensions/yellow-system.ini` = file with system settings  
+`system/extensions/yellow-language.ini` = file with language settings  
+`system/extensions/yellow-user.ini` = file with user settings  
+`system/extensions/yellow-website.log` = log file of the website  
 
 Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
