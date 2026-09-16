@@ -1,4 +1,4 @@
-# Install 0.9.13
+# Install 0.9.14
 
 Install a brand new website. Developed by Anna Svensson.
 
@@ -44,6 +44,7 @@ The following files will be modified during the installation:
 `content/shared/page-error-404.md` = content file for error page  
 `system/extensions/yellow-system.ini` = file with system settings  
 `system/extensions/yellow-language.ini` = file with language settings  
+`system/extensions/yellow-update-installed.ini` = file with update settings for installed extensions  
 `system/extensions/yellow-user.ini` = file with user settings  
 `system/extensions/yellow-website.log` = log file of the website  
 

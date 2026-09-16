@@ -1,4 +1,4 @@
-# Install 0.9.13
+# Install 0.9.14
 
 Eine brandneue Webseite installieren. Entwickelt von Anna Svensson.
 
@@ -44,6 +44,7 @@ Die folgenden Dateien werden bei der Installation geändert:
 `content/shared/page-error-404.md` = Inhaltsdatei für Fehlerseite  
 `system/extensions/yellow-system.ini` = Datei mit Systemeinstellungen  
 `system/extensions/yellow-language.ini` = Datei mit Spracheinstellungen  
+`system/extensions/yellow-update-installed.ini` = Datei mit Aktualisierungseinstellungen für installierte Erweiterungen  
 `system/extensions/yellow-user.ini` = Datei mit Benutzereinstellungen  
 `system/extensions/yellow-website.log` = Logdatei der Webseite  
 

@@ -1,4 +1,4 @@
-# Install 0.9.13
+# Install 0.9.14
 
 Installera en helt ny webbplats. Utvecklad av Anna Svensson.
 
@@ -44,6 +44,7 @@ Följande filer kommer att ändras under installationen:
 `content/shared/page-error-404.md` = innehållsfil för felsidan  
 `system/extensions/yellow-system.ini` = fil med systeminställningar  
 `system/extensions/yellow-language.ini` = fil med språkinställningar  
+`system/extensions/yellow-update-installed.ini` = fil med uppdateringsinställningar för installerade tillägg  
 `system/extensions/yellow-user.ini` = fil med användarinställningar  
 `system/extensions/yellow-website.log` = webbplatsens loggfil  
 
