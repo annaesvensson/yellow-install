@@ -10,7 +10,7 @@ Eine brandneue Webseite installieren. Entwickelt von Anna Svensson.
 
 ## Wie man die Installation überspringt
 
-Du kannst die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/readme-de.md) überspringen. Das ist praktisch für Entwickler und Designer die automatische Installationen und Systemtests durchführen möchten. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php skip installation` gefolgt von einer Option. Die Option `small` installiert die wichtigsten Dinge für eine kleine Webseite. Die Option `medium` installiert die [Hilfe-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/readme-de.md) zusammen mit den empfohlenen Erweiterungen. Die Option `large` installiert alle [Erweiterungen auf der offiziellen Webseite](https://datenstrom.se/de/yellow/extensions/).
+Du kannst die Installation in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/readme-de.md) überspringen. Das ist praktisch für Entwickler und Designer die Installationen ohne einen Webbrowser durchführen möchten. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php skip installation` gefolgt von einer Option. Die Option `small` installiert die wichtigsten Dinge für eine kleine Webseite. Die Option `medium` installiert die [Hilfe-Erweiterung](https://github.com/annaesvensson/yellow-help/tree/main/readme-de.md) zusammen mit den empfohlenen Erweiterungen. Die Option `large` installiert alle [Erweiterungen auf der offiziellen Webseite](https://datenstrom.se/de/yellow/extensions/).
 
 ## Beispiele
 
