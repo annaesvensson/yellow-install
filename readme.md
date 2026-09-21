@@ -48,4 +48,8 @@ The following files will be modified during the installation:
 `system/extensions/yellow-user.ini` = file with user settings  
 `system/extensions/yellow-website.log` = log file of the website  
 
+## Acknowledgements
+
+This extension uses [curl](https://github.com/curl/curl) by Daniel Stenberg. Thank you for the useful library.
+
 Do you have questions? [Get help](https://datenstrom.se/yellow/help/).

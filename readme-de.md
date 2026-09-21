@@ -48,4 +48,8 @@ Die folgenden Dateien werden bei der Installation geändert:
 `system/extensions/yellow-user.ini` = Datei mit Benutzereinstellungen  
 `system/extensions/yellow-website.log` = Logdatei der Webseite  
 
+## Danksagung
+
+Diese Erweiterung verwendet [curl](https://github.com/curl/curl) von Daniel Stenberg. Danke für die nützliche Bibliothek.
+
 Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).

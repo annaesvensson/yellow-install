@@ -48,4 +48,8 @@ Följande filer kommer att ändras under installationen:
 `system/extensions/yellow-user.ini` = fil med användarinställningar  
 `system/extensions/yellow-website.log` = webbplatsens loggfil  
 
+## Tack
+
+Detta tillägg använder [curl](https://github.com/curl/curl) av Daniel Stenberg. Tack för det användbara biblioteket.
+
 Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).
