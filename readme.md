@@ -1,4 +1,4 @@
-# Install 1.0.2
+# Install 1.0.3
 
 Install a brand new website. Developed by Anna Svensson.
 
