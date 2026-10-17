@@ -1,4 +1,4 @@
-# Install 1.0.3
+# Install 1.0.4
 
 Eine brandneue Webseite installieren. Entwickelt von Anna Svensson.
 
